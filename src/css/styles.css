@@ -1,0 +1,73 @@
+body{   
+    background-color: rgb(178, 219, 233);
+}
+
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+
+h3 {
+    color:blueviolet;
+    text-align: center;
+    font-size: 30px
+
+}
+
+p{
+    font-size:25px
+}
+
+li {
+    padding: 20px;
+}
+
+#img1 {
+    border-style: inset;
+    border-width: 1px;   
+    border-radius: 10px;
+    height: 0%;
+    width: 0%;
+    padding: 20px
+   
+}
+
+#img2 {
+    border-style: inset;
+    border-width: 1px;   
+    border-radius: 10px;
+    height: 0%;
+    width: 0%;
+    padding: 20px
+}
+
+#img3 {
+    border-style: inset;
+    border-width: 1px;   
+    border-radius: 10px;
+    height: 0px;
+    width: 0px;
+    padding: 20px
+}
+
+.eua {
+    font-size: 35px;
+    font-family: cursive;
+    font-style: italic
+}
+
+.sui {
+    font-size: 50px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.chi {
+    font-size: 50px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+a:hover {
+    color: green;
+}
